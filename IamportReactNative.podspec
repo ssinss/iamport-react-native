@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                   IamportReactNative
                    DESC
-  s.homepage     = ""
+  s.homepage     = "https://github.com/iamport/iamport-react-native"
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   s.author             = { "author" => "author@domain.cn" }
